@@ -1,7 +1,7 @@
 package com.IT7320.A3_PartB;
 
 /**
- * Hello world!
+ * Hello world! test Jenkins and Github integration
  *
  */
 public class Arithmetic 
